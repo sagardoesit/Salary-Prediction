@@ -11,4 +11,4 @@ The first row of each file contains headers for the columns. The metadata and sa
 
 By using the data an Exploratory Data Analysis is done determining the factors that are helpful to predict salary using various graphs following the 
 concept of IQR and outliers. 
-A heatmap is generated to get the clear view of the co-relations within the factors.
+A heat map is generated to get the clear view of the co-relations within the factors.
