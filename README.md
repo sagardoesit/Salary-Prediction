@@ -1,6 +1,10 @@
 # Salary-Prediction
 This is a repository of the project Salary Predictions
 
+# Files in Repo
+salarypredictions.ipynb - Contains Python code for EDA and determining factors in predicting salary.
+salaryprediction-eda-checkpoint.ipynb - Python notebook for machine learning concepts and various Statistical Models.
+
 # Introduction
 Employers and human resources professionals must consider many decisions carefully when  planning what they will pay employees on a job. This shouldn’t be a surprise as pay exerts important effects to employees and does account for a significant part of an organization’s cost structure. Chief among these decisions is determining the average amount the organization pays for a job.   
 
